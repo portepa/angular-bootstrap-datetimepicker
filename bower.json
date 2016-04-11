@@ -1,0 +1,13 @@
+{
+    "name": "angular-bootstrap-datetimepicker",
+    "description": "Angular datetimepicker bower",
+    "version": "0.12.0",
+    "main": ["./src/js/datetimepicker.js",
+    "./src/js/datetimepicker.templates.js",
+    "./src/css/datetimepicker.css.map",
+    "./src/css/datetimepicker.css"],
+    "dependencies": {
+        "angular": ">=1.4.0",
+        "moment": ">=2.8.3"
+    }    
+}
